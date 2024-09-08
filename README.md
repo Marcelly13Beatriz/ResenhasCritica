@@ -13,6 +13,3 @@ Como funciona?
 HTML: A estrutura da página.
 CSS: Designer dos elementos da página.
 JavaScript: Elementos de pesquisa e armazenamento dos dados
-
-# ResenhasCritica
-Um site que oferece informações sobre diversos livros, e resenhas críticas sobre eles.
